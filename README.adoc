@@ -1,9 +1,69 @@
 = Nim Programming Cookbook
 
-This is the source for http://nim-cookbook.btbytes.com[Nim Programming Cookbook] website.
+This Cookbook not a https://nim-lang.org/docs/tut1.md[tutorial] on
+learning Nim, neither is it aimed at
+http://howistart.org/posts/nim/1/index.md[introducing Nim] to
+programmers. It is for people who are familiar with
+https://nim-lang.org/docs/manual.md[Nim syntax].
 
-**License**
+It's for people who want to figure out how to put together what they
+know about nim with a problem they want to solve to write a program.
+After all, there is nothing like writing an actual program to learn a
+new programming language.
 
-2017, Pradeep Gowda
+*Table of contents*
 
-This code and text are dedicated to the public domain. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+* link:basics.md[Basics] -- variables, constants, immutables;
+conditionals, looping.
+* link:dsalgo.md[Datastructures and Algorithms]
+** Lists and Arrays
+** link:tuples.md[Tuples]
+** Sets
+** link:strings.md[Strings]
+** link:tables.md[Tables]
+** Regular Expressions
+* Numbers
+* Dates and Times
+* Iterators
+* Files and I/O
+* Data Encoding and processing
+** link:json.md[JSON]
+** CSV
+** XML
+* Functions
+* Classes and Objects
+* Modules and Packages
+** Using third party libraries
+** Packaging libraries
+* Web programming
+* System utitlies
+** Command line interfaces
+** Argument parsing
+** Logging
+* Testing
+* Interfacing with C libraries
+** Using Nim from Python
+** Using Nim from C
+* Shell programming
+* Distributing and Deploying binaries
+** Debug vs Release builds
+** Compiler options
+** Language backends -- C, C++, Javascript
+** Distributing "standalone" source
+* Concurrency and Parallelism
+
+*License*
+
+This code and text are dedicated to the public domain. You can copy,
+modify, distribute and perform the work, even for commercial purposes,
+all without asking permission.
+
+You may copy and paste any code here verbatim into your codebase, wiki,
+blog, book or dance production as you see fit. The Markdown and Nim
+source is available on https://github.com/btbytes/nim-cookbook/[Github].
+Pull requests are always accepted for changes and additional content.
+This is a living document.
+
+[link:changelog.md[changelog]] |
+[https://github.com/btbytes/nim-cookbook/[github]] |
+[link:links.md[links]] | [link:acknowledgements.md[acknowledgements]]
