@@ -10,7 +10,11 @@ After all, there is nothing like writing an actual program to learn a new progra
 **Table of contents**
 
 * [Datastructures and Algorithms](dsalgo.html)
-* [Strings](strings.html){.section}
+	+ Lists and Arrays
+	+ [Tuples](tuples.html)
+	+ Sets
+	+ [Strings](strings.html){.section}
+	+ [Tables](tables.html)
 	+ Regular Expressions
 * Numbers
 * Dates and Times

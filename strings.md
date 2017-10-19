@@ -27,3 +27,17 @@ You can specify more than one character to strip from the string (default: white
 ```
 
 Note the `(*`  and `*)` stripped from the ends and not from the middle of the string.
+
+
+## Interpolating variables in Strings
+
+### Problem
+
+Create a string in which variable values can be embedded.
+
+### Solution
+
+
+```{.input include=code/tables01.nim startLine=1 endLine=6}
+```
+
