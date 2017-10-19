@@ -1,6 +1,4 @@
-var
-  address : tuple[street: string, city: string, zipcode: int]
-address = ("Royal Rd", "Kingville", 11234)
+let address = ("Royal Rd", "Kingville", 11234)
 let (s,c,z) = address
 echo s
 echo c
