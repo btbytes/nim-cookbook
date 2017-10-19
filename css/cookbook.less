@@ -21,10 +21,23 @@ h1 {
 h2 {
   font-size: 1.1em;
   color: Purple;
+  font-weight: 300;
 }
 h3 {
   font-size: 1.05em;
+  font-weight: 100;
 }
+
+h4 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+h1, h2, h3, h4 {
+  font-family:helvetica;
+  margin-top:20px;
+}
+
 
 li {
   list-style-position: outside;
@@ -32,11 +45,6 @@ li {
 }
 
 li p { margin-top:10px; }
-
-h1, h2, h3, h4 {
-  font-family:helvetica;
-  margin-top:20px;
-}
 
 blockquote {
     color:SeaGreen;
@@ -50,8 +58,9 @@ blockquote {
 
 
 pre.input{
-  border: dotted 1px gainsboro;
-  background-color: seashell;
+  border-top : dotted 1px gainsboro;
+  border-bottom : dotted 1px gainsboro;
+  padding-top: 0.5em;
 }
 
 pre.output{
@@ -76,9 +85,11 @@ a.appendix {
 
 #TOC {
   // border: dotted 1px silver;
+  margin-top: 2em;
+  margin-bottom: 3em;
   ul {
     margin-left: -2.5em;
-    margin-top: 0.3em;
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
     li {
       list-style-type: none;

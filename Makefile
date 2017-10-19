@@ -5,7 +5,10 @@ all: $(OBJS)
 	cd css; make
 
 %.html: %.md  Makefile template/html.tmpl
-	pandoc $< -o $@ -s -S --css=css/cookbook.css --template=template/html.tmpl --toc
+	pandoc $< -o $@ -s -S --css=css/cookbook.css \
+		--template=template/html.tmpl \
+		--toc --toc-depth=2\
+		--filter pandoc-include-code
 
 
 sync: $(OBJS)
