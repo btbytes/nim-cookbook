@@ -9,7 +9,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 
 **Table of contents**
 
-* [Datastructures and Algorithms](ds01.html)
+* [Datastructures and Algorithms](dsalgo.html)
 * [Strings](strings.html){.section}
 	+ Regular Expressions
 * Numbers
@@ -19,10 +19,12 @@ After all, there is nothing like writing an actual program to learn a new progra
 * Data Encoding and processing
 	+ JSON
 	+ CSV
+	+ XML
 * Functions
 * Classes and Objects
 * Modules and Packages
-	+ Packaging
+	+ Using third party libraries
+	+ Packaging libraries
 * Web programming
 * System utitlies
 	+ Command line interfaces
@@ -30,7 +32,10 @@ After all, there is nothing like writing an actual program to learn a new progra
 	+ Logging
 * Testing
 * Interfacing with C language libraries
+	+ Using Nim from Python
+	+ Using Nim from C
 * Shell programming
+* Distributing and Deploying binaries
 
 
 **License**

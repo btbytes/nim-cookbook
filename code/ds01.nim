@@ -1,5 +1,3 @@
-import os
-
 var
   address : tuple[street: string, city: string, zipcode: int]
 address = ("Royal Rd", "Kingville", 11234)
@@ -9,6 +7,7 @@ echo c
 echo z
 
 
+import os
 let
   path = "/usr/local/bin/6m"
   (dir, name, ext) = splitFile(path)
