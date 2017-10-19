@@ -57,6 +57,9 @@ blockquote {
   color: green;
   border-left: 1px solid #98a;
 }
+code {
+  font-weight: 300;
+}
 pre.input {
   border-top: dotted 1px gainsboro;
   border-bottom: dotted 1px gainsboro;

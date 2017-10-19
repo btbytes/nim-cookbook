@@ -9,6 +9,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 
 **Table of contents**
 
+* [Basics](basics.html) -- variables, constants, immutables; conditionals, looping.
 * [Datastructures and Algorithms](dsalgo.html)
 	+ Lists and Arrays
 	+ [Tuples](tuples.html)
@@ -21,7 +22,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 * Iterators
 * Files and I/O
 * Data Encoding and processing
-	+ JSON
+	+ [JSON](json.html)
 	+ CSV
 	+ XML
 * Functions
@@ -40,6 +41,12 @@ After all, there is nothing like writing an actual program to learn a new progra
 	+ Using Nim from C
 * Shell programming
 * Distributing and Deploying binaries
+	+ Debug vs Release builds
+	+ Compiler options
+	+ Language backends -- C, C++, Javascript
+	+ Distributing "standalone" source
+* Concurrency and Parallelism
+
 
 
 **License**

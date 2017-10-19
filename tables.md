@@ -10,3 +10,7 @@ Hash tables (dictionary in Python) are known as [tables](https://nim-lang.org/do
 
 ```{.input include=code/tables01.nim}
 ```
+
+`tables` module provides `toTable`.
+
+The formatting `%` is provided by `strutils` module.
