@@ -14,5 +14,12 @@ You have a tuple of `N`-elements that you want to unpack into `N` seperate varia
 
 ### Solution
 
-```{.input include=code/ds01.nim startLine=1 endLine=8}
+
+```{.input include=code/ds01.nim startLine=1 endLine=9}
+```
+
+
+Practical uses:
+
+```{.input include=code/ds01.nim startLine=12 endLine=18}
 ```

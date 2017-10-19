@@ -9,7 +9,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 
 **Table of contents**
 
-* Datastructures and Algorithms
+* [Datastructures and Algorithms](ds01.html)
 * [Strings](strings.html){.section}
 	+ Regular Expressions
 * Numbers
