@@ -31,7 +31,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 	+ Argument parsing
 	+ Logging
 * Testing
-* Interfacing with C language libraries
+* Interfacing with C libraries
 	+ Using Nim from Python
 	+ Using Nim from C
 * Shell programming
@@ -44,5 +44,5 @@ This code and text are dedicated to the public domain. You can copy, modify, dis
 
 You may copy and paste any code here verbatim into your codebase, wiki, blog, book or dance production as you see fit. The Markdown and Nim source is available on [Github](https://github.com/btbytes/nim-cookbook/). Pull requests are always accepted for changes and additional content. This is a living document.
 
-[[changelog](changelog.html)] | [[github](https://github.com/btbytes/nim-cookbook/)] \ [[links](links.html)]
+[[changelog](changelog.html)] | [[github](https://github.com/btbytes/nim-cookbook/)] | [[links](links.html)] | [[acknowledgements](acknowledgements.html)]
 
