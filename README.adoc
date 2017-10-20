@@ -2,9 +2,9 @@
 
 The cookbook can be seen here: http://nim-cookbook.btbytes.com/
 
-This is cookbook aimed at Nim programmers who have familiarity with the language and want to write programs in it. This cookbook wants to be a useful resource for questions like -- "How do do X with Nim?".
+This cookbook is aimed at Nim programmers who have familiarity with the language and want to write programs in it. We, the authors and contributors of this cookbook would like this to be a useful resource for questions like -- "How do do X with Nim?".
 
-This cookbook is a community effort. Please send your recipes, improvements and suggestions. Pull Requests are open.
+Writing new recipes, enhancing, proofreading, fixing bugs in the code are all a community effort. Please send your recipes, improvements and suggestions. Pull Requests are open.
 
 **Note to Recipe Writers**
 
