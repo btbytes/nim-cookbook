@@ -7,7 +7,7 @@ This cookbook is a community effort. Please send your recipes, improvements and 
 
 **Note to Recipe Writers**
 
-- The Markdown files are processed into HTML by [Pandoc](http://pandoc.org/).
+- The Markdown files are processed into HTML by http://pandoc.org/[Pandoc].
 - The Nim code exists under `code` directory.
 - Code files follow a "topicNN.nim" pattern. Eg: `files01.nim`.
 - Code is embedded into markdown files using this syntax:
