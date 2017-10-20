@@ -11,3 +11,8 @@ title: JSON
 
 ```{.input include=code/json01.nim startLine=7 endLine=14}
 ```
+
+## Handling JSON nodes
+
+```{.input include=code/json03.nim startLine=1 endLine=22}
+```
