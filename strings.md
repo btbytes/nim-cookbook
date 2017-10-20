@@ -41,3 +41,13 @@ Create a string in which variable values can be embedded.
 ```{.input include=code/tables01.nim startLine=1 endLine=6}
 ```
 
+## Check the case of a string
+
+### Problem
+
+Check if a string is an uppercase or a lowercase.
+
+### Solution
+
+```{.input include=code/str02.nim startLine=1 endLine=6}
+```
