@@ -12,7 +12,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 **Table of contents**
 
 * [Basics](basics.html) -- variables, constants, immutables; conditionals, looping.
-* [Datastructures and Algorithms](dsalgo.html) -- Lists and Arrays, [Tuples](tuples.html), Sets, [Strings](strings.html), [Tables](tables.html), Regular Expressions
+* [Data structures and Algorithms](dsalgo.html) -- [Sequences](sequences.html),  Arrays, [Tuples](tuples.html), Sets, [Strings](strings.html), [Tables](tables.html), Regular Expressions
 * Numbers
 * Dates and Times
 * Iterators
