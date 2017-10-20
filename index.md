@@ -3,9 +3,9 @@ title: Home
 author: Pradeep Gowda
 ---
 
-This Cookbook not a [tutorial](https://nim-lang.org/docs/tut1.html) on learning Nim, neither is it aimed at [introducing Nim](http://howistart.org/posts/nim/1/index.html) to programmers. It is for people who are familiar with [Nim syntax](https://nim-lang.org/docs/manual.html).
+This Cookbook is not a [tutorial](https://nim-lang.org/docs/tut1.html) on learning Nim, neither is it aimed at [introducing Nim](http://howistart.org/posts/nim/1/index.html) to programmers. It is for people who are familiar with [Nim syntax](https://nim-lang.org/docs/manual.html).
 
-It's for people who want to figure out how to put together what they know about nim with a problem they want to solve to write a program.
+It is for people who want to figure out how to put together what they know about Nim with a problem they want to solve to write a program.
 After all, there is nothing like writing an actual program to learn a new programming language.
 
 
@@ -24,7 +24,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 	+ Using third party libraries
 	+ Packaging libraries
 * Web programming
-* System utitlies
+* System utilities
 	+ Command line interfaces
 	+ Argument parsing
 	+ Logging
