@@ -5,7 +5,7 @@ var jz : JsonNode
 
 jz = parseJson("""{"node1":"abc","node2":"def","node3":"hij"}""")
 
-# In order to handle an key not found [KeyError], one should use .hasKey
+# In order to avoid a possible key not found [KeyError], one should use .hasKey
 if jz.hasKey("node1"):
     field1 = jz["node1"].getStr
 
