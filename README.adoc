@@ -1,5 +1,4 @@
 = Nim Programming Cookbook
-
 This Cookbook not a https://nim-lang.org/docs/tut1.md[tutorial] on
 learning Nim, neither is it aimed at
 http://howistart.org/posts/nim/1/index.md[introducing Nim] to
@@ -15,21 +14,14 @@ new programming language.
 
 * link:basics.md[Basics] -- variables, constants, immutables;
 conditionals, looping.
-* link:dsalgo.md[Datastructures and Algorithms]
-** Lists and Arrays
-** link:tuples.md[Tuples]
-** Sets
-** link:strings.md[Strings]
-** link:tables.md[Tables]
-** Regular Expressions
+* link:dsalgo.md[Datastructures and Algorithms] -- Lists and Arrays,
+link:tuples.md[Tuples], Sets, link:strings.md[Strings],
+link:tables.md[Tables], Regular Expressions
 * Numbers
 * Dates and Times
 * Iterators
 * Files and I/O
-* Data Encoding and processing
-** link:json.md[JSON]
-** CSV
-** XML
+* Data Encoding and processing -- link:json.md[JSON], CSV, XML
 * Functions
 * Classes and Objects
 * Modules and Packages
@@ -51,6 +43,7 @@ conditionals, looping.
 ** Language backends -- C, C++, Javascript
 ** Distributing "standalone" source
 * Concurrency and Parallelism
+* link:docs.md[Documenting Nim Code]
 
 *License*
 
