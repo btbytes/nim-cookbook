@@ -10,40 +10,6 @@ know about Nim with a problem they want to solve to write a program.
 After all, there is nothing like writing an actual program to learn a
 new programming language.
 
-*Table of contents*
-
-* link:basics.md[Basics] -- variables, constants, immutables;
-conditionals, looping.
-* link:dsalgo.md[Datastructures and Algorithms] -- Lists and Arrays,
-link:tuples.md[Tuples], Sets, link:strings.md[Strings],
-link:tables.md[Tables], Regular Expressions
-* Numbers
-* Dates and Times
-* Iterators
-* link:files.md[Files] and I/O
-* Data Encoding and processing -- link:json.md[JSON], CSV, XML
-* Functions
-* Classes and Objects
-* Modules and Packages
-** Using third party libraries
-** Packaging libraries
-* Web programming
-* System utilities
-** Command line interfaces
-** Argument parsing
-** Logging
-* Testing
-* Interfacing with C libraries
-** Using Nim from Python
-** Using Nim from C
-* Shell programming
-* Distributing and Deploying binaries
-** Debug vs Release builds
-** Compiler options
-** Language backends -- C, C++, Javascript
-** Distributing "standalone" source
-* Concurrency and Parallelism
-* link:docs.md[Documenting Nim Code]
 
 *License*
 
