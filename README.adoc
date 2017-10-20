@@ -1,5 +1,6 @@
 = Nim Programming Cookbook
 
+The cookbook can be seen here: http://nim-cookbook.btbytes.com/
 
 This is cookbook aimed at Nim programmers who have familiarity with the language and want to write programs in it. This cookbook wants to be a useful resource for questions like -- "How do do X with Nim?".
 
@@ -37,7 +38,3 @@ blog, book or dance production as you see fit. The Markdown and Nim
 source is available on https://github.com/btbytes/nim-cookbook/[Github].
 Pull requests are always accepted for changes and additional content.
 This is a living document.
-
-[link:changelog.md[changelog]] |
-[https://github.com/btbytes/nim-cookbook/[github]] |
-[link:links.md[links]] | [link:acknowledgements.md[acknowledgements]]
