@@ -20,7 +20,7 @@ link:tables.md[Tables], Regular Expressions
 * Numbers
 * Dates and Times
 * Iterators
-* Files and I/O
+* link:files.md[Files] and I/O
 * Data Encoding and processing -- link:json.md[JSON], CSV, XML
 * Functions
 * Classes and Objects
