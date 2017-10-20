@@ -1,14 +1,29 @@
 = Nim Programming Cookbook
-This Cookbook is not a https://nim-lang.org/docs/tut1.md[tutorial] on
-learning Nim, neither is it aimed at
-http://howistart.org/posts/nim/1/index.md[introducing Nim] to
-programmers. It is for people who are familiar with
-https://nim-lang.org/docs/manual.md[Nim syntax].
 
-It is for people who want to figure out how to put together what they
-know about Nim with a problem they want to solve to write a program.
-After all, there is nothing like writing an actual program to learn a
-new programming language.
+
+This is cookbook aimed at Nim programmers who have familiarity with the language and want to write programs in it. This cookbook wants to be a useful resource for questions like -- "How do do X with Nim?".
+
+This cookbook is a community effort. Please send your recipes, improvements and suggestions. Pull Requests are open.
+
+**Note to Recipe Writers**
+
+- The Markdown files are processed into HTML by [Pandoc](http://pandoc.org/).
+- The Nim code exists under `code` directory.
+- Code files follow a "topicNN.nim" pattern. Eg: `files01.nim`.
+- Code is embedded into markdown files using this syntax:
+
+
+[source, markdown]
+-------------------------------------------------------------------------------
+```{.input include=code/ds01.nim startLine=1 endLine=7}
+```
+-------------------------------------------------------------------------------
+
+where,
+
+- `.input` is a CSS class directive.
+- `include` directive references the Nim source file to embed
+- `startLine` and `endLine` limit the lines of code embedded into the final HTML document on processing. Omitting these would include the entire file into the final document.
 
 
 *License*
