@@ -48,6 +48,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 	+ Language backends -- C, C++, Javascript
 	+ Distributing "standalone" source
 * Concurrency and Parallelism
+* [Documenting Nim Code](docs.html)
 
 
 
