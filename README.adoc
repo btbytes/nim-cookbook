@@ -1,12 +1,12 @@
 = Nim Programming Cookbook
-This Cookbook not a https://nim-lang.org/docs/tut1.md[tutorial] on
+This Cookbook is not a https://nim-lang.org/docs/tut1.md[tutorial] on
 learning Nim, neither is it aimed at
 http://howistart.org/posts/nim/1/index.md[introducing Nim] to
 programmers. It is for people who are familiar with
 https://nim-lang.org/docs/manual.md[Nim syntax].
 
-It's for people who want to figure out how to put together what they
-know about nim with a problem they want to solve to write a program.
+It is for people who want to figure out how to put together what they
+know about Nim with a problem they want to solve to write a program.
 After all, there is nothing like writing an actual program to learn a
 new programming language.
 
@@ -28,7 +28,7 @@ link:tables.md[Tables], Regular Expressions
 ** Using third party libraries
 ** Packaging libraries
 * Web programming
-* System utitlies
+* System utilities
 ** Command line interfaces
 ** Argument parsing
 ** Logging
