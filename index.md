@@ -23,6 +23,7 @@ Effort is made ensure that the code shown here is correct and compiles to produc
 * Data Encoding and processing -- [JSON](json.html), CSV, XML
 * Functions
 * Classes and Objects
+* [Metaprogramming](metaprogramming.html)
 * Modules and Packages
 	+ Using third party libraries
 	+ Packaging libraries
