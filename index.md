@@ -14,7 +14,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 * [Basics](basics.html) -- variables, constants, immutables; conditionals, looping.
 * [Data structures and Algorithms](dsalgo.html) -- [Sequences](sequences.html),  Arrays, [Tuples](tuples.html), Sets, [Strings](strings.html), [Tables](tables.html), Regular Expressions
 * Numbers
-* Dates and Times
+* [Date and Time](datetime.html)
 * Iterators
 * [Files](files.html), [directories](dir.html) and I/O
 * Data Encoding and processing -- [JSON](json.html), CSV, XML
