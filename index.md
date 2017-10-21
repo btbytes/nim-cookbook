@@ -23,7 +23,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 * Modules and Packages
 	+ Using third party libraries
 	+ Packaging libraries
-* Web programming
+* [Web programming](web.html)
 * System utilities
 	+ Command line interfaces
 	+ Argument parsing
