@@ -49,4 +49,4 @@ This code and text are dedicated to the public domain. You can copy, modify, dis
 
 You may copy and paste any code here verbatim into your codebase, wiki, blog, book or dance production as you see fit. The Markdown and Nim source is available on [Github](https://github.com/btbytes/nim-cookbook/). Pull requests are always accepted for changes and additional content. This is a living document.
 
-[[changelog](changelog.html)] | [[github](https://github.com/btbytes/nim-cookbook/)] | [[links](links.html)] | [[acknowledgements](acknowledgements.html)]
+[[changelog](changelog.html)] | [[github](https://github.com/btbytes/nim-cookbook/)] | [[links](links.html)] | [[acknowledgements](acknowledgements.html)] | [[faq](faq.html)]
