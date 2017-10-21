@@ -11,6 +11,7 @@ Writing new recipes, enhancing, proofreading, fixing bugs in the code are all a 
 - The Markdown files are processed into HTML by http://pandoc.org/[Pandoc].
 - The Nim code exists under `code` directory.
 - Code files follow a "topicNN.nim" pattern. Eg: `files01.nim`.
+- There is a `Makefile` in the code directory that compiles all source files. Run `make` after you complete a recipe to make sure your program runs.
 - Code is embedded into markdown files using this syntax:
 
 
