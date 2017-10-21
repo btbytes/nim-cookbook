@@ -8,24 +8,22 @@ Writing new recipes, enhancing, proofreading, fixing bugs in the code are all a 
 
 **Note to Recipe Writers**
 
-- The Markdown files are processed into HTML by http://pandoc.org/[Pandoc].
-- The Nim code exists under `code` directory.
-- Code files follow a "topicNN.nim" pattern. Eg: `files01.nim`.
-- There is a `Makefile` in the code directory that compiles all source files. Run `make` after you complete a recipe to make sure your program runs.
-- Code is embedded into markdown files using this syntax:
-
+* The Markdown files are processed into HTML by http://pandoc.org/[Pandoc].
+* The Nim code exists under `code` directory.
+* Code files follow a "topicNN.nim" pattern. Eg: `files01.nim`.
+* There is a `Makefile` in the code directory that compiles all source files. Run `make` after you complete a recipe to make sure your program runs.
+* Code is embedded into markdown files using this syntax:
 
 [source, markdown]
 -------------------------------------------------------------------------------
 ```{.input include=code/ds01.nim startLine=1 endLine=7}
 ```
 -------------------------------------------------------------------------------
-
-where,
-
-- `.input` is a CSS class directive.
-- `include` directive references the Nim source file to embed
-- `startLine` and `endLine` limit the lines of code embedded into the final HTML document on processing. Omitting these would include the entire file into the final document.
+* where:
+** `.input` is a CSS class directive. (use `.output` for showing proram output.)
+** `include` directive references the Nim source file to embed
+** `startLine` and `endLine` limit the lines of code embedded into the final HTML document on processing. Omitting these would include the entire file into the final document.
+* _If you are looking to contribute to the project, see the https://github.com/btbytes/nim-cookbook/projects/1[Things to do] kanban board!_
 
 
 *License*
