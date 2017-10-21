@@ -1,19 +1,23 @@
 ---
-title: Files I/O
+title: Files and I/O
 ---
 
 
-## Memory Mapped files
+## Directory Listing
 
-[Memory mapped files](https://en.wikipedia.org/wiki/Memory-mapped_file) allows your program to access files on disk in the same way it accesses dynamic memory.
+### Problem: list of files in a directory
 
-### Problem: How do I memory map files in Nim?
+Print a list of files in a directory matching a pattern.
 
-Example: Using [memfiles](https://nim-lang.org/docs/memfiles.html) modules to count the number of lines in a file:
+### Solution
 
-```{.input}
-import memfiles
-var i = 0
-for line in memSlices(memfiles.open("foo")):
-  inc(i)
+Print the list of all `.nim` files in this directory
+
+```{.input include=code/files02.nim startLine=1 endLine=4}
 ```
+
+You can even search in child directories.
+
+```{.input include=code/files02.nim startLine=6 endLine=7}
+```
+
