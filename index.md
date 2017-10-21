@@ -31,7 +31,7 @@ Effort is made ensure that the code shown here is correct and compiles to produc
 	+ Command line interfaces
 	+ Argument parsing
 	+ Logging
-* Random numbers and sampling
+* [Random numbers and sampling](random.html)
 * Testing
 * Interfacing with C libraries
 	+ Using Nim from Python
