@@ -1,4 +1,4 @@
---
+---
 title: Links
 ---
 
@@ -26,4 +26,3 @@ O'Reilly books:
 - [Perl](http://shop.oreilly.com/product/9780596003135.do)
 - [Python](http://chimera.labs.oreilly.com/books/1230000000393)
 - [C#](http://shop.oreilly.com/product/0636920037347.do)
-
