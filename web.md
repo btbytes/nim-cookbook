@@ -9,3 +9,6 @@ title: Web programming
 Fetch a web page using nim and save it to a file.
 
 ### Solution
+
+```{.input include=code/web01.nim}
+```
