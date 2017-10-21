@@ -28,6 +28,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 	+ Command line interfaces
 	+ Argument parsing
 	+ Logging
+* Random numbers and sampling
 * Testing
 * Interfacing with C libraries
 	+ Using Nim from Python
