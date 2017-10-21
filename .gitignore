@@ -2,3 +2,5 @@
 .netlify
 nimcache
 *.exe
+.gitignore
+.vscode

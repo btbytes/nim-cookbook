@@ -15,7 +15,7 @@ Effort is made ensure that the code shown here is correct and compiles to produc
 **Table of contents**
 
 * [Basics](basics.html) -- variables, constants, immutables; conditionals, looping.
-* [Data structures and Algorithms](dsalgo.html) -- [Sequences](sequences.html),  Arrays, [Tuples](tuples.html), Sets, [Strings](strings.html), [Tables](tables.html), Regular Expressions
+* [Data structures and Algorithms](dsalgo.html) -- [Sequences](sequences.html),  Arrays, [Tuples](tuples.html), [Sets](sets.html), [Strings](strings.html), [Tables](tables.html), Regular Expressions
 * Numbers
 * [Date and Time](datetime.html)
 * Iterators
