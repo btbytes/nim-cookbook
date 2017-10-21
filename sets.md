@@ -30,6 +30,10 @@ You want to check if some value is in the set.
 ```{.input include=code/sets02.nim}
 ```
 
+```{.output include=code/sets02.output}
+```
+
+
 
 ## Add/remove value from a set
 
@@ -41,6 +45,10 @@ You want to add or remove some value to/from the existing set.
 
 ```{.input include=code/sets03.nim}
 ```
+
+```{.output include=code/sets03.output}
+```
+
 
 
 ## Operations on two sets
@@ -54,6 +62,9 @@ You want to add two sets together (union).
 ```{.input include=code/sets04.nim startLine=1 endLine=8}
 ```
 
+```{.output include=code/sets04.output startLine=1 endLine=2}
+```
+
 
 ### Problem
 
@@ -64,6 +75,10 @@ You want to get the intersection of two sets.
 ```{.input include=code/sets04.nim startLine=10 endLine=11}
 ```
 
+```{.output include=code/sets04.output startLine=3 endLine=4}
+```
+
+
 
 ### Problem
 
@@ -72,6 +87,9 @@ You want to get the difference of two sets.
 ### Solution
 
 ```{.input include=code/sets04.nim startLine=13 endLine=17}
+```
+
+```{.output include=code/sets04.output startLine=5 endLine=8}
 ```
 
 Note: difference is non-commutative.
@@ -86,3 +104,7 @@ You want to get the elements which are in either of two sets, but not in both (s
 
 ```{.input include=code/sets04.nim startLine=19 endLine=20}
 ```
+
+```{.output include=code/sets04.output startLine=9 endLine=10}
+```
+
