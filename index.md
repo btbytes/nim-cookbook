@@ -9,6 +9,9 @@ It is for people who want to figure out how to put together what they know about
 After all, there is nothing like writing an actual program to learn a new programming language.
 
 
+Effort is made ensure that the code shown here is correct and compiles to produce the desired result. You can look at the ["code"](https://github.com/btbytes/nim-cookbook/tree/master/code) directory for the complete source listing.
+
+
 **Table of contents**
 
 * [Basics](basics.html) -- variables, constants, immutables; conditionals, looping.
