@@ -24,8 +24,10 @@ Effort is made ensure that the code shown here is correct and compiles to produc
 * Functions
 * Classes and Objects
 * [Metaprogramming](metaprogramming.html)
++ Compiling -- options, nimscript.
 * Modules and Packages
-	+ Using third party libraries
+	+ Nimble
+	+ Using Third party libraries
 	+ Packaging libraries
 * [Web programming](web.html)
 * System utilities
@@ -44,6 +46,8 @@ Effort is made ensure that the code shown here is correct and compiles to produc
 	+ Language backends -- C, C++, Javascript
 	+ Distributing "standalone" source
 * Concurrency and Parallelism
+* Performance
+* Garbage collection
 * [Documenting Nim Code](docs.html)
 
 
