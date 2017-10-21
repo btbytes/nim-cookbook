@@ -1,5 +1,5 @@
 ---
-title: Files and I/O
+title: Directories
 ---
 
 
@@ -13,11 +13,10 @@ Print a list of files in a directory matching a pattern.
 
 Print the list of all `.nim` files in this directory
 
-```{.input include=code/files02.nim startLine=1 endLine=4}
+```{.input include=code/dir01.nim startLine=1 endLine=4}
 ```
 
 You can even search in child directories.
 
-```{.input include=code/files02.nim startLine=6 endLine=7}
+```{.input include=code/dir01.nim startLine=6 endLine=7}
 ```
-

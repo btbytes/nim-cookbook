@@ -16,7 +16,7 @@ After all, there is nothing like writing an actual program to learn a new progra
 * Numbers
 * Dates and Times
 * Iterators
-* [Files](files.html) and I/O
+* [Files](files.html), [directories](dir.html) and I/O
 * Data Encoding and processing -- [JSON](json.html), CSV, XML
 * Functions
 * Classes and Objects
