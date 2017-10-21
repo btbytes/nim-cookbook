@@ -15,6 +15,9 @@ You have an existing sequence and you want to create a set from it.
 ```{.input include=code/sets01.nim}
 ```
 
+```{.output include=code/sets01.output}
+```
+
 
 ## Check if a value is in the set
 

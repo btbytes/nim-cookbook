@@ -62,9 +62,10 @@ pre.input {
   border-top: dotted 1px gainsboro;
   border-bottom: dotted 1px gainsboro;
   padding-top: 0.5em;
+  background-color: LightYellow;
 }
 pre.output {
-  background-color: mintcream;
+  background-color: AliceBlue;
 }
 a.appendix {
   color: steelgray;
