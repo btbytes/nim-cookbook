@@ -1,22 +1,18 @@
 import random
 
+# Print 19 random numbers from 0 to 119
 for i in 1..<20:
   echo(i, ", ", random(120))
 
-# select 10 random fruits
-var fruits = newSeq[string](0)
+var fruits = newSeq[string]()
 
-var
-  f: File
-  fname = "fruits.txt"
-  line: string
-if open(f, fname):
-  while f.readline(line):
-    fruits.add(line)
-  close(f)
+# Iterate over all lines in "fruits.txt"
+for line in "fruits.txt".lines:
+  fruits.add(line)
 
-# ... but first randomize the seed with current time.
-import times
-randomize(int(epochTime()))
+# Randomize the seed (current time is used to randomize it by default)
+randomize()
+
+# Select 10 random fruits
 for i in 0..<10:
-    echo i, ", ", random(fruits)
+  echo i, ", ", random(fruits)
