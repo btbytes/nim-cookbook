@@ -13,3 +13,4 @@ all: $(OBJS) $(OUTPUTS)
 .PHONY:
 clean:
 	rm -f $(OBJS)
+	rm -f $(OUTPUTS)
