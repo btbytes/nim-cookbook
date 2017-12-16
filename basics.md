@@ -81,7 +81,7 @@ It works as a compile time `if` or `#ifdef`.  The conditions must be known at co
 
 ```{.input}
 when system.hostOS == "Linux"
-    bool isNix == true
+    bool isNix = true
     echo "Running on Linux!"
 
 if isNix: 	# Note how `isNix` is available outside the `when` block
